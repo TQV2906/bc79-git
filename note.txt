@@ -11,7 +11,8 @@ git conmit -M " create home page html "
   đẩy file từ local lên remote
    repo local : souce code trong máy tính 
 
-
+gom, code từ 2 login về master ( đứng tại nhánh master)
+git marge login
 
 
 
